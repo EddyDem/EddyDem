@@ -6,7 +6,7 @@ Je développe des applications web et approfondis leur déploiement, leur automa
 
 ### Projets
 
-- **LineupControl** - Application de vote en direct pour choisir le prochain genre d'un set DJ, développée avec Next.js et Supabase.
+- **[LineupControl](https://www.lineupcontrol.com/)*** - Application de vote en direct pour choisir le prochain genre d'un set DJ, développée avec Next.js et Supabase.
 - **[DJ Kriss Event](https://www.dj-kriss-event.fr/)** - Conception et développement d'un site pour une activité de DJ et d'animation événementielle: première version en 2021, puis refonte en 2026 avec React, PHP et SQL.
 - **Homelab** - pratique de Linux, Docker, Ansible et des sauvegardes/restaurations sur mon infrastructure personnelle. Contraintes d'open source, config-as-code, reversibilité, et mise en place de sécurités contre un modèle de menace complet: intrusion, attaque ciblé, accés physique, fournisseurs.
 
