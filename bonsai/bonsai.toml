@@ -1,0 +1,9 @@
+max_branches = 16
+exclude = ["dotfiles", "*.github.io"]
+pin = ["my-favourite"]      # always gets a branch
+max_growth_per_day = 1
+bloom_streak_days = 21
+dormant_after_days = 60
+
+[colors]
+Kotlin = "#a97bff"          # override a language colour
