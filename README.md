@@ -1,5 +1,10 @@
 # Eddy Demoulin
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="bonsai/bonsai-dark.svg">
+  <img alt="My Git Bonsai, grown from my GitHub activity" src="bonsai/bonsai-light.svg" width="560">
+</picture>
+
 **Développeur logiciel / full-stack junior orienté produit - Nancy, France**
 
 Je développe des applications web et approfondis leur déploiement, leur automatisation et leur exploitation sous Linux.
