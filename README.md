@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img src="assets/wave.svg#haut" width="100%" alt="wave">
+    <img src="assets/top_wave.svg#haut" width="100%" alt="Top decorative wave">
   </picture>
 <p>
 
@@ -50,6 +50,6 @@ Les sources de ces projets restent privées. Les dépôts M-Motors ([front-end](
 
 <p align="center">
   <picture>
-    <img src="assets/wave.svg#bas" width="100%" alt="wave">
+    <img src="assets/wave.svg" width="100%" alt="Bottom decorative wave">
   </picture>
 <p>
