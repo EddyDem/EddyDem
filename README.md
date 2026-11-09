@@ -1,3 +1,9 @@
+<p align="center">
+  <picture>
+    <img src="assets/wave.svg#haut" width="100%" alt="wave">
+  </picture>
+<p>
+
 # Eddy Demoulin
 
 <h3>Développeur logiciel / full-stack junior orienté produit - Nancy, France</h3>
@@ -42,8 +48,8 @@ Les sources de ces projets restent privées. Les dépôts M-Motors ([front-end](
   </a>
 </div>
 
-<div align="center">
+<p align="center">
   <picture>
-    <img src="assets/wave.svg" width="100%" alt="wave">
+    <img src="assets/wave.svg#bas" width="100%" alt="wave">
   </picture>
-<div>
+<p>
